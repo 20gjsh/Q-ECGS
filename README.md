@@ -8,3 +8,5 @@ its prototype phase, and eventually add the networking functionality we always w
 
 ![Original Setup Photo One](setupOne.jpg)
 ![Original Setup Photo Two](setupTwo.jpg)
+
+I would like to say that we sourced all gifs from ECGSimulator.net, and we clain no ownership of the gifs. 
