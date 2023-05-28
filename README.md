@@ -4,4 +4,5 @@ I did all the coding for the project, but I cannot take all the credit as my oth
 sourcing the gifs, to coming up with the actual idea. I have decided to take this up as a bit of a Summer project to improve it past
 its prototype phase, and eventually add the networking functionality we always wanted it to include. 
 
-![Original Setup](setupOne.jpg)(setupTwo.jpg)
+![Original Setup Photo One](setupOne.jpg)
+![Original Setup Photo Two](setupTwo.jpg)
